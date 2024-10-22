@@ -1,0 +1,9 @@
+{
+	"name": "adventure-works-adf-jan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "539e9ed1-eaca-4cf2-af2a-26b120781454",
+		"tenantId": "c0ff6059-8876-4163-8247-13d026ea5c4b"
+	}
+}
